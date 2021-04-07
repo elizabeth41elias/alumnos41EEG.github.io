@@ -1,10 +1,10 @@
 class MiFooter
   extends HTMLElement {
   connectedCallback() {
-    this.innerHTML = /* html */
+    this.innerHTML = 
       `<p>
         &copy; 2021
-       Emanuel Cortez Lopez
+       Elizabeth Elias
       </p>`;
   }
 }
