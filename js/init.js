@@ -1,4 +1,4 @@
-firebase.initializeApp({
+var firebaseConfig = {
     apiKey: "AIzaSyAHGVksYZUqiFCrWE5U8igyWQuZH6fa934",
     authDomain: "alumnos41eeg.firebaseapp.com",
     projectId: "alumnos41eeg",
@@ -6,4 +6,4 @@ firebase.initializeApp({
     messagingSenderId: "334683487355",
     appId: "1:334683487355:web:7a347ea9a6ee3eefef76de",
     measurementId: "G-VQFG29CYKL"
-});
+  };
